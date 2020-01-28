@@ -1,3 +1,1 @@
-# Arkamoid
-# Arkanoid
 # Arkanoid
